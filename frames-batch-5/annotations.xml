@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>3826227</id>
+      <size>11</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-04-05 15:32:15.911616+00:00</created>
+      <updated>2026-04-05 16:45:43.565313+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>10</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3825167</id>
+          <start>0</start>
+          <stop>10</stop>
+          <url>https://app.cvat.ai/api/jobs/3826227/dataset/export/api/jobs/3826227</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>mariam8</username>
+        <email>mariamhanyy42@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>left_hand</name>
+          <color>#aef261</color>
+          <type>skeleton</type>
+          <attributes>
+          </attributes>
+          <svg>&lt;line x1="51.93980026245117" y1="69.10326385498047" x2="60.18867492675781" y2="49.833919525146484" data-type="edge" data-node-from="1" data-node-to="18"&gt;&lt;/line&gt;
+&lt;line x1="61.83961868286133" y1="41.343353271484375" x2="62.455806732177734" y2="38.036312103271484" data-type="edge" data-node-from="20" data-node-to="21"&gt;&lt;/line&gt;
+&lt;line x1="61.13207244873047" y1="44.409393310546875" x2="61.83961868286133" y2="41.343353271484375" data-type="edge" data-node-from="19" data-node-to="20"&gt;&lt;/line&gt;
+&lt;line x1="60.18867492675781" y1="49.833919525146484" x2="61.13207244873047" y2="44.409393310546875" data-type="edge" data-node-from="18" data-node-to="19"&gt;&lt;/line&gt;
+&lt;line x1="55.59961700439453" y1="48.90587615966797" x2="60.18867492675781" y2="49.833919525146484" data-type="edge" data-node-from="14" data-node-to="18"&gt;&lt;/line&gt;
+&lt;line x1="54.76349639892578" y1="36.364070892333984" x2="54.26182556152344" y2="31.84902000427246" data-type="edge" data-node-from="16" data-node-to="17"&gt;&lt;/line&gt;
+&lt;line x1="54.999996185302734" y1="40.87165832519531" x2="54.76349639892578" y2="36.364070892333984" data-type="edge" data-node-from="15" data-node-to="16"&gt;&lt;/line&gt;
+&lt;line x1="55.59961700439453" y1="48.90587615966797" x2="54.999996185302734" y2="40.87165832519531" data-type="edge" data-node-from="14" data-node-to="15"&gt;&lt;/line&gt;
+&lt;line x1="50.518863677978516" y1="48.73329162597656" x2="55.59961700439453" y2="48.90587615966797" data-type="edge" data-node-from="10" data-node-to="14"&gt;&lt;/line&gt;
+&lt;line x1="50.518863677978516" y1="34.73958206176758" x2="50.5828971862793" y2="29.84233283996582" data-type="edge" data-node-from="12" data-node-to="13"&gt;&lt;/line&gt;
+&lt;line x1="50.283016204833984" y1="38.98486328125" x2="50.518863677978516" y2="34.73958206176758" data-type="edge" data-node-from="11" data-node-to="12"&gt;&lt;/line&gt;
+&lt;line x1="50.518863677978516" y1="48.73329162597656" x2="50.283016204833984" y2="38.98486328125" data-type="edge" data-node-from="10" data-node-to="11"&gt;&lt;/line&gt;
+&lt;line x1="45.398948669433594" y1="48.738651275634766" x2="50.518863677978516" y2="48.73329162597656" data-type="edge" data-node-from="6" data-node-to="10"&gt;&lt;/line&gt;
+&lt;line x1="44.39560317993164" y1="36.02962112426758" x2="44.2283821105957" y2="31.514572143554688" data-type="edge" data-node-from="8" data-node-to="9"&gt;&lt;/line&gt;
+&lt;line x1="44.562828063964844" y1="40.37744903564453" x2="44.39560317993164" y2="36.02962112426758" data-type="edge" data-node-from="7" data-node-to="8"&gt;&lt;/line&gt;
+&lt;line x1="45.398948669433594" y1="48.738651275634766" x2="44.562828063964844" y2="40.37744903564453" data-type="edge" data-node-from="6" data-node-to="7"&gt;&lt;/line&gt;
+&lt;line x1="51.93980026245117" y1="69.10326385498047" x2="45.398948669433594" y2="48.738651275634766" data-type="edge" data-node-from="1" data-node-to="6"&gt;&lt;/line&gt;
+&lt;line x1="37.3721923828125" y1="53.92259979248047" x2="32.689918518066406" y2="49.240325927734375" data-type="edge" data-node-from="4" data-node-to="5"&gt;&lt;/line&gt;
+&lt;line x1="40.5494499206543" y1="57.76875305175781" x2="37.3721923828125" y2="53.92259979248047" data-type="edge" data-node-from="3" data-node-to="4"&gt;&lt;/line&gt;
+&lt;line x1="45.7333984375" y1="61.94935607910156" x2="40.5494499206543" y2="57.76875305175781" data-type="edge" data-node-from="2" data-node-to="3"&gt;&lt;/line&gt;
+&lt;line x1="51.93980026245117" y1="69.10326385498047" x2="45.7333984375" y2="61.94935607910156" data-type="edge" data-node-from="1" data-node-to="2"&gt;&lt;/line&gt;
+&lt;circle r="0.75" cx="51.93980026245117" cy="69.10326385498047" data-type="element node" data-element-id="1" data-node-id="1" data-label-name="WRIST"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="45.7333984375" cy="61.94935607910156" data-type="element node" data-element-id="2" data-node-id="2" data-label-name="THUMB_CMC"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="40.5494499206543" cy="57.76875305175781" data-type="element node" data-element-id="3" data-node-id="3" data-label-name="THUMB_MCP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="37.3721923828125" cy="53.92259979248047" data-type="element node" data-element-id="4" data-node-id="4" data-label-name="THUMB_IP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="32.689918518066406" cy="49.240325927734375" data-type="element node" data-element-id="5" data-node-id="5" data-label-name="THUMB_TIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="45.398948669433594" cy="48.738651275634766" data-type="element node" data-element-id="6" data-node-id="6" data-label-name="INDEX_FINGER_MCP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="44.562828063964844" cy="40.37744903564453" data-type="element node" data-element-id="7" data-node-id="7" data-label-name="INDEX_FINGER_PIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="44.39560317993164" cy="36.02962112426758" data-type="element node" data-element-id="8" data-node-id="8" data-label-name="INDEX_FINGER_DIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="44.2283821105957" cy="31.514572143554688" data-type="element node" data-element-id="9" data-node-id="9" data-label-name="INDEX_FINGER_TIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="50.518863677978516" cy="48.73329162597656" data-type="element node" data-element-id="10" data-node-id="10" data-label-name="MIDDLE_FINGER_MCP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="50.283016204833984" cy="38.98486328125" data-type="element node" data-element-id="11" data-node-id="11" data-label-name="MIDDLE_FINGER_PIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="50.518863677978516" cy="34.73958206176758" data-type="element node" data-element-id="12" data-node-id="12" data-label-name="MIDDLE_FINGER_DIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="50.5828971862793" cy="29.84233283996582" data-type="element node" data-element-id="13" data-node-id="13" data-label-name="MIDDLE_FINGER_TIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="55.59961700439453" cy="48.90587615966797" data-type="element node" data-element-id="14" data-node-id="14" data-label-name="RING_FINGER_MCP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="54.999996185302734" cy="40.87165832519531" data-type="element node" data-element-id="15" data-node-id="15" data-label-name="RING_FINGER_PIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="54.76349639892578" cy="36.364070892333984" data-type="element node" data-element-id="16" data-node-id="16" data-label-name="RING_FINGER_DIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="54.26182556152344" cy="31.84902000427246" data-type="element node" data-element-id="17" data-node-id="17" data-label-name="RING_FINGER_TIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="60.18867492675781" cy="49.833919525146484" data-type="element node" data-element-id="18" data-node-id="18" data-label-name="PINKY_MCP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="61.13207244873047" cy="44.409393310546875" data-type="element node" data-element-id="19" data-node-id="19" data-label-name="PINKY_PIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="61.83961868286133" cy="41.343353271484375" data-type="element node" data-element-id="20" data-node-id="20" data-label-name="PINKY_DIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="62.455806732177734" cy="38.036312103271484" data-type="element node" data-element-id="21" data-node-id="21" data-label-name="PINKY_TIP"&gt;&lt;/circle&gt;</svg>
+        </label>
+        <label>
+          <name>WRIST</name>
+          <color>#4497b3</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>THUMB_CMC</name>
+          <color>#4eb9ce</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>THUMB_MCP</name>
+          <color>#fc5886</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>THUMB_IP</name>
+          <color>#6f5dab</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>THUMB_TIP</name>
+          <color>#9d2d29</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>INDEX_FINGER_MCP</name>
+          <color>#9f7ad1</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>INDEX_FINGER_PIP</name>
+          <color>#f900f5</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>INDEX_FINGER_DIP</name>
+          <color>#4ba936</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>INDEX_FINGER_TIP</name>
+          <color>#b1884f</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>MIDDLE_FINGER_MCP</name>
+          <color>#2e5d53</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>MIDDLE_FINGER_PIP</name>
+          <color>#842961</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>MIDDLE_FINGER_DIP</name>
+          <color>#c546a5</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>MIDDLE_FINGER_TIP</name>
+          <color>#6b7df6</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>RING_FINGER_MCP</name>
+          <color>#4a8e58</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>RING_FINGER_PIP</name>
+          <color>#2f28ba</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>RING_FINGER_DIP</name>
+          <color>#7c7089</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>RING_FINGER_TIP</name>
+          <color>#9b0ca1</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>PINKY_MCP</name>
+          <color>#f61990</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>PINKY_PIP</name>
+          <color>#bdc90f</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>PINKY_DIP</name>
+          <color>#f860ec</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>PINKY_TIP</name>
+          <color>#4985cc</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>left_hand</parent>
+        </label>
+        <label>
+          <name>right_hand</name>
+          <color>#401c61</color>
+          <type>skeleton</type>
+          <attributes>
+          </attributes>
+          <svg>&lt;line x1="42.97169494628906" y1="42.1295166015625" x2="39.90565872192383" y2="26.09178352355957" data-type="edge" data-node-from="1" data-node-to="18"&gt;&lt;/line&gt;
+&lt;line x1="40.61320495605469" y1="18.308765411376953" x2="41.32075119018555" y2="16.421972274780273" data-type="edge" data-node-from="20" data-node-to="21"&gt;&lt;/line&gt;
+&lt;line x1="39.66980743408203" y1="21.846500396728516" x2="40.61320495605469" y2="18.308765411376953" data-type="edge" data-node-from="19" data-node-to="20"&gt;&lt;/line&gt;
+&lt;line x1="39.90565872192383" y1="26.09178352355957" x2="39.66980743408203" y2="21.846500396728516" data-type="edge" data-node-from="18" data-node-to="19"&gt;&lt;/line&gt;
+&lt;line x1="42.73584747314453" y1="23.969141006469727" x2="39.90565872192383" y2="26.09178352355957" data-type="edge" data-node-from="14" data-node-to="18"&gt;&lt;/line&gt;
+&lt;line x1="43.91509246826172" y1="15.242727279663086" x2="44.62263870239258" y2="12.648387908935547" data-type="edge" data-node-from="16" data-node-to="17"&gt;&lt;/line&gt;
+&lt;line x1="43.207542419433594" y1="18.07291603088379" x2="43.91509246826172" y2="15.242727279663086" data-type="edge" data-node-from="15" data-node-to="16"&gt;&lt;/line&gt;
+&lt;line x1="42.73584747314453" y1="23.969141006469727" x2="43.207542419433594" y2="18.07291603088379" data-type="edge" data-node-from="14" data-node-to="15"&gt;&lt;/line&gt;
+&lt;line x1="45.801883697509766" y1="24.20499038696289" x2="42.73584747314453" y2="23.969141006469727" data-type="edge" data-node-from="10" data-node-to="14"&gt;&lt;/line&gt;
+&lt;line x1="46.98112869262695" y1="14.53518009185791" x2="47.216976165771484" y2="11.469141960144043" data-type="edge" data-node-from="12" data-node-to="13"&gt;&lt;/line&gt;
+&lt;line x1="46.273582458496094" y1="17.837066650390625" x2="46.98112869262695" y2="14.53518009185791" data-type="edge" data-node-from="11" data-node-to="12"&gt;&lt;/line&gt;
+&lt;line x1="45.801883697509766" y1="24.20499038696289" x2="46.273582458496094" y2="17.837066650390625" data-type="edge" data-node-from="10" data-node-to="11"&gt;&lt;/line&gt;
+&lt;line x1="49.1037712097168" y1="27.271028518676758" x2="45.801883697509766" y2="24.20499038696289" data-type="edge" data-node-from="6" data-node-to="10"&gt;&lt;/line&gt;
+&lt;line x1="50.04716491699219" y1="15.714425086975098" x2="50.283016204833984" y2="12.648387908935547" data-type="edge" data-node-from="8" data-node-to="9"&gt;&lt;/line&gt;
+&lt;line x1="50.283016204833984" y1="19.959707260131836" x2="50.04716491699219" y2="15.714425086975098" data-type="edge" data-node-from="7" data-node-to="8"&gt;&lt;/line&gt;
+&lt;line x1="49.1037712097168" y1="27.271028518676758" x2="50.283016204833984" y2="19.959707260131836" data-type="edge" data-node-from="6" data-node-to="7"&gt;&lt;/line&gt;
+&lt;line x1="42.97169494628906" y1="42.1295166015625" x2="49.1037712097168" y2="27.271028518676758" data-type="edge" data-node-from="1" data-node-to="6"&gt;&lt;/line&gt;
+&lt;line x1="52.40565872192383" y1="27.506877899169922" x2="54.292449951171875" y2="24.67668914794922" data-type="edge" data-node-from="4" data-node-to="5"&gt;&lt;/line&gt;
+&lt;line x1="51.9339599609375" y1="31.044612884521484" x2="52.40565872192383" y2="27.506877899169922" data-type="edge" data-node-from="3" data-node-to="4"&gt;&lt;/line&gt;
+&lt;line x1="48.63207244873047" y1="34.346500396728516" x2="51.9339599609375" y2="31.044612884521484" data-type="edge" data-node-from="2" data-node-to="3"&gt;&lt;/line&gt;
+&lt;line x1="42.97169494628906" y1="42.1295166015625" x2="48.63207244873047" y2="34.346500396728516" data-type="edge" data-node-from="1" data-node-to="2"&gt;&lt;/line&gt;
+&lt;circle r="0.75" cx="42.97169494628906" cy="42.1295166015625" data-type="element node" data-element-id="1" data-node-id="1" data-label-name="WRIST"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="48.63207244873047" cy="34.346500396728516" data-type="element node" data-element-id="2" data-node-id="2" data-label-name="THUMB_CMC"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="51.9339599609375" cy="31.044612884521484" data-type="element node" data-element-id="3" data-node-id="3" data-label-name="THUMB_MCP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="52.40565872192383" cy="27.506877899169922" data-type="element node" data-element-id="4" data-node-id="4" data-label-name="THUMB_IP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="54.292449951171875" cy="24.67668914794922" data-type="element node" data-element-id="5" data-node-id="5" data-label-name="THUMB_TIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="49.1037712097168" cy="27.271028518676758" data-type="element node" data-element-id="6" data-node-id="6" data-label-name="INDEX_FINGER_MCP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="50.283016204833984" cy="19.959707260131836" data-type="element node" data-element-id="7" data-node-id="7" data-label-name="INDEX_FINGER_PIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="50.04716491699219" cy="15.714425086975098" data-type="element node" data-element-id="8" data-node-id="8" data-label-name="INDEX_FINGER_DIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="50.283016204833984" cy="12.648387908935547" data-type="element node" data-element-id="9" data-node-id="9" data-label-name="INDEX_FINGER_TIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="45.801883697509766" cy="24.20499038696289" data-type="element node" data-element-id="10" data-node-id="10" data-label-name="MIDDLE_FINGER_MCP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="46.273582458496094" cy="17.837066650390625" data-type="element node" data-element-id="11" data-node-id="11" data-label-name="MIDDLE_FINGER_PIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="46.98112869262695" cy="14.53518009185791" data-type="element node" data-element-id="12" data-node-id="12" data-label-name="MIDDLE_FINGER_DIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="47.216976165771484" cy="11.469141960144043" data-type="element node" data-element-id="13" data-node-id="13" data-label-name="MIDDLE_FINGER_TIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="42.73584747314453" cy="23.969141006469727" data-type="element node" data-element-id="14" data-node-id="14" data-label-name="RING_FINGER_MCP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="43.207542419433594" cy="18.07291603088379" data-type="element node" data-element-id="15" data-node-id="15" data-label-name="RING_FINGER_PIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="43.91509246826172" cy="15.242727279663086" data-type="element node" data-element-id="16" data-node-id="16" data-label-name="RING_FINGER_DIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="44.62263870239258" cy="12.648387908935547" data-type="element node" data-element-id="17" data-node-id="17" data-label-name="RING_FINGER_TIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="39.90565872192383" cy="26.09178352355957" data-type="element node" data-element-id="18" data-node-id="18" data-label-name="PINKY_MCP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="39.66980743408203" cy="21.846500396728516" data-type="element node" data-element-id="19" data-node-id="19" data-label-name="PINKY_PIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="40.61320495605469" cy="18.308765411376953" data-type="element node" data-element-id="20" data-node-id="20" data-label-name="PINKY_DIP"&gt;&lt;/circle&gt;
+&lt;circle r="0.75" cx="41.32075119018555" cy="16.421972274780273" data-type="element node" data-element-id="21" data-node-id="21" data-label-name="PINKY_TIP"&gt;&lt;/circle&gt;</svg>
+        </label>
+        <label>
+          <name>WRIST</name>
+          <color>#4497b3</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>THUMB_CMC</name>
+          <color>#4eb9ce</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>THUMB_MCP</name>
+          <color>#fc5886</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>THUMB_IP</name>
+          <color>#6f5dab</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>THUMB_TIP</name>
+          <color>#9d2d29</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>INDEX_FINGER_MCP</name>
+          <color>#9f7ad1</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>INDEX_FINGER_PIP</name>
+          <color>#f900f5</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>INDEX_FINGER_DIP</name>
+          <color>#4ba936</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>INDEX_FINGER_TIP</name>
+          <color>#b1884f</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>MIDDLE_FINGER_MCP</name>
+          <color>#2e5d53</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>MIDDLE_FINGER_PIP</name>
+          <color>#842961</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>MIDDLE_FINGER_DIP</name>
+          <color>#c546a5</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>MIDDLE_FINGER_TIP</name>
+          <color>#6b7df6</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>RING_FINGER_MCP</name>
+          <color>#4a8e58</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>RING_FINGER_PIP</name>
+          <color>#2f28ba</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>RING_FINGER_DIP</name>
+          <color>#7c7089</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>RING_FINGER_TIP</name>
+          <color>#9b0ca1</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>PINKY_MCP</name>
+          <color>#f61990</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>PINKY_PIP</name>
+          <color>#bdc90f</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>PINKY_DIP</name>
+          <color>#f860ec</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+        <label>
+          <name>PINKY_TIP</name>
+          <color>#4985cc</color>
+          <type>points</type>
+          <attributes>
+          </attributes>
+          <parent>right_hand</parent>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-04-05 16:45:52.747460+00:00</dumped>
+  </meta>
+  <image id="0" name="frames/0011605573471265007-HIDE_frame0014.jpg" width="640" height="480">
+    <skeleton label="left_hand" source="manual" z_order="0">
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="268.81,397.27">
+      </points>
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="341.77,402.89">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="339.03,375.37">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="307.63,348.10">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="280.64,336.44">
+      </points>
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="267.50,318.24">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="287.49,354.11">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="259.96,351.05">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="268.38,357.23">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="280.69,358.50">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="277.43,365.83">
+      </points>
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="251.18,363.79">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="268.13,364.95">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="279.62,367.73">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="277.47,386.18">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="255.25,383.95">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="264.87,386.57">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="276.21,387.07">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="271.31,398.68">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="257.41,395.47">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="263.79,395.66">
+      </points>
+    </skeleton>
+    <skeleton label="right_hand" source="manual" z_order="0">
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="266.07,235.99">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="269.94,241.20">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="252.66,272.56">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="234.39,304.40">
+      </points>
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="196.44,322.30">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="229.13,245.03">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="226.88,262.46">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="256.21,259.99">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="304.34,251.59">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="329.31,251.51">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="231.01,267.02">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="251.92,265.28">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="295.39,256.54">
+      </points>
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="313.44,255.39">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="235.81,243.41">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="268.93,241.81">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="299.77,243.06">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="228.06,251.96">
+      </points>
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="252.46,256.02">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="305.50,248.43">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="333.31,245.85">
+      </points>
+    </skeleton>
+  </image>
+  <image id="1" name="frames/010182642578412393-FRUIT_frame0011.jpg" width="640" height="480">
+    <skeleton label="right_hand" source="manual" z_order="0">
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="225.14,174.59">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="225.50,194.52">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="232.77,225.00">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="243.98,248.05">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="239.80,145.82">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="235.30,161.27">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="232.74,184.88">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="250.75,240.94">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="269.68,141.22">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="262.14,160.06">
+      </points>
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="250.84,189.01">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="256.76,235.70">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="323.71,188.56">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="300.63,191.53">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="285.19,207.85">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="273.07,238.79">
+      </points>
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="267.37,340.71">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="309.09,300.77">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="320.41,258.00">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="326.27,226.74">
+      </points>
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="331.04,204.74">
+      </points>
+    </skeleton>
+  </image>
+  <image id="2" name="frames/011397460262169368-ROLE_frame0010.jpg" width="640" height="480">
+    <skeleton label="left_hand" source="manual" z_order="0">
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="438.16,285.59">
+      </points>
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="428.61,447.50">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="396.55,408.80">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="389.59,366.79">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="389.08,337.34">
+      </points>
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="385.92,316.30">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="416.78,338.91">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="425.16,288.06">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="428.64,253.47">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="430.70,227.65">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="429.38,338.77">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="442.39,250.22">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="444.88,222.67">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="443.72,342.42">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="452.45,294.95">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="458.37,257.03">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="461.96,233.01">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="457.50,354.13">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="463.50,320.83">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="467.09,293.67">
+      </points>
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="470.71,272.50">
+      </points>
+    </skeleton>
+    <skeleton label="right_hand" source="manual" z_order="0">
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="260.16,398.13">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="177.27,381.29">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="211.09,380.04">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="234.98,394.22">
+      </points>
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="254.03,410.30">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="255.01,381.02">
+      </points>
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="199.50,446.37">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="233.32,438.44">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="259.38,412.23">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="273.07,394.32">
+      </points>
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="281.04,378.08">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="248.40,368.75">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="251.97,311.65">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="255.42,282.76">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="256.75,264.65">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="229.54,351.36">
+      </points>
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="229.35,299.74">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="235.11,273.26">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="242.42,245.98">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="194.71,362.38">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="216.42,360.34">
+      </points>
+    </skeleton>
+  </image>
+  <image id="3" name="frames/09959176420970262-SNORKEL_frame0029.jpg" width="640" height="480">
+    <skeleton label="left_hand" source="manual" z_order="0">
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="376.49,219.57">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="392.86,226.51">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="405.79,246.94">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="422.78,272.12">
+      </points>
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="450.84,293.40">
+      </points>
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="455.38,233.77">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="460.01,221.88">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="475.82,207.05">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="492.46,228.00">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="439.68,233.46">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="441.08,214.27">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="456.59,193.45">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="474.28,227.83">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="427.49,215.73">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="433.52,197.38">
+      </points>
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="453.59,170.95">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="458.75,215.33">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="463.82,136.95">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="458.05,153.54">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="449.19,176.64">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="439.81,217.62">
+      </points>
+    </skeleton>
+  </image>
+  <image id="4" name="frames/09978085743758558-SLICE 3_frame0023.jpg" width="640" height="480">
+    <skeleton label="right_hand" source="manual" z_order="0">
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="203.62,385.61">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="203.55,354.75">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="203.74,299.88">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="211.29,266.90">
+      </points>
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="212.75,241.13">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="222.31,307.52">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="248.52,273.99">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="264.91,254.99">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="281.72,242.14">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="237.25,324.83">
+      </points>
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="267.57,295.55">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="289.09,271.78">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="315.82,252.46">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="243.97,344.45">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="282.39,314.44">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="301.81,292.78">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="314.26,279.95">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="261.27,362.00">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="280.62,344.36">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="300.30,325.25">
+      </points>
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="309.45,310.34">
+      </points>
+    </skeleton>
+    <skeleton label="left_hand" source="manual" z_order="0">
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="285.13,377.86">
+      </points>
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="385.39,420.38">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="393.60,389.15">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="389.20,353.20">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="385.01,322.77">
+      </points>
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="389.38,293.21">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="343.91,366.37">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="307.13,358.04">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="277.06,345.81">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="257.05,335.95">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="327.66,394.58">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="255.95,361.12">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="231.71,347.88">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="312.11,411.32">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="291.75,399.46">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="262.38,388.25">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="238.35,376.99">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="308.60,426.80">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="279.01,416.06">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="258.34,412.22">
+      </points>
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="238.96,406.79">
+      </points>
+    </skeleton>
+  </image>
+  <image id="5" name="frames/10459324445751661-ADMIT_frame0015.jpg" width="640" height="480">
+    <skeleton label="right_hand" source="manual" z_order="0">
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="340.82,314.73">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="331.46,318.51">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="319.67,322.95">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="298.39,326.29">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="354.48,293.23">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="343.37,296.76">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="325.97,301.29">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="297.71,309.31">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="351.31,277.38">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="337.80,279.27">
+      </points>
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="321.90,283.93">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="290.21,294.20">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="329.58,253.27">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="318.22,258.02">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="303.94,265.78">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="280.40,280.20">
+      </points>
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="265.43,246.42">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="259.66,259.42">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="249.58,274.55">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="239.66,302.85">
+      </points>
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="245.16,330.31">
+      </points>
+    </skeleton>
+    <skeleton label="left_hand" source="manual" z_order="0">
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="284.42,399.15">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="295.56,398.64">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="310.38,395.39">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="332.08,391.77">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="268.32,373.11">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="279.85,373.73">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="298.23,374.70">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="329.15,376.56">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="264.69,352.42">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="276.15,353.23">
+      </points>
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="294.99,354.16">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="327.03,359.76">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="269.13,328.69">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="284.40,331.86">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="303.82,335.48">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="337.49,342.44">
+      </points>
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="355.80,307.28">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="362.47,320.21">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="370.31,337.23">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="387.44,358.45">
+      </points>
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="407.00,390.01">
+      </points>
+    </skeleton>
+  </image>
+  <image id="6" name="frames/10807511408082915-ADMIT_frame0013.jpg" width="640" height="480">
+    <skeleton label="right_hand" source="manual" z_order="0">
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="295.04,398.96">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="285.90,361.96">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="301.50,317.13">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="318.96,291.09">
+      </points>
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="325.34,273.89">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="352.80,324.33">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="395.50,307.43">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="422.15,300.52">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="440.82,297.25">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="368.44,346.24">
+      </points>
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="416.41,323.14">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="441.36,312.54">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="459.19,306.48">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="378.13,365.77">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="417.43,346.98">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="440.69,333.42">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="456.41,326.35">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="378.79,384.47">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="413.01,372.25">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="432.56,362.43">
+      </points>
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="444.07,354.97">
+      </points>
+    </skeleton>
+  </image>
+  <image id="7" name="frames/10807511408082915-ADMIT_frame0025.jpg" width="640" height="480">
+    <skeleton label="right_hand" source="manual" z_order="0">
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="286.16,468.59">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="266.92,424.77">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="280.03,389.94">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="300.64,362.26">
+      </points>
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="314.78,336.58">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="353.29,402.28">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="404.77,383.78">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="437.65,379.39">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="469.98,378.25">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="367.58,422.80">
+      </points>
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="420.92,401.63">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="454.56,389.52">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="490.61,376.00">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="368.42,439.60">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="440.06,408.04">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="469.87,398.35">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="491.41,392.42">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="363.13,449.02">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="420.53,425.77">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="453.92,415.73">
+      </points>
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="473.86,412.17">
+      </points>
+    </skeleton>
+  </image>
+  <image id="8" name="frames/11371494843142349-EASY_frame0014.jpg" width="640" height="480">
+    <skeleton label="left_hand" source="manual" z_order="0">
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="452.11,435.90">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="455.94,381.97">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="445.66,332.76">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="430.58,289.24">
+      </points>
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="434.81,254.80">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="415.09,338.01">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="366.74,289.33">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="339.24,266.75">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="323.31,251.72">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="388.79,359.44">
+      </points>
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="347.88,310.80">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="316.40,280.84">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="299.81,261.58">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="365.98,381.06">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="328.00,329.66">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="303.23,295.80">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="291.51,276.13">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="352.49,401.47">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="320.72,361.87">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="304.54,337.33">
+      </points>
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="293.27,319.93">
+      </points>
+    </skeleton>
+    <skeleton label="right_hand" source="manual" z_order="0">
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="282.28,282.99">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="270.59,299.03">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="250.13,315.95">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="221.80,350.80">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="290.33,244.92">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="269.05,263.29">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="241.13,287.84">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="196.25,328.86">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="278.21,235.27">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="256.18,248.83">
+      </points>
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="221.79,271.86">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="252.11,225.70">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="231.45,237.87">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="201.11,256.71">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="156.51,289.99">
+      </points>
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="117.76,231.22">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="129.24,257.15">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="128.14,293.23">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="122.72,352.85">
+      </points>
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="136.00,401.69">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="173.62,309.25">
+      </points>
+    </skeleton>
+  </image>
+  <image id="9" name="frames/11934324633301552-SAME 2_frame0023.jpg" width="640" height="480">
+  </image>
+  <image id="10" name="frames/12057425028382007-CHOKE_frame0023.jpg" width="640" height="480">
+    <skeleton label="left_hand" source="manual" z_order="0">
+      <points label="PINKY_TIP" source="manual" outside="0" occluded="0" points="310.13,345.59">
+      </points>
+      <points label="PINKY_DIP" source="manual" outside="0" occluded="0" points="316.08,350.70">
+      </points>
+      <points label="PINKY_PIP" source="manual" outside="0" occluded="0" points="328.52,356.43">
+      </points>
+      <points label="PINKY_MCP" source="manual" outside="0" occluded="0" points="338.34,370.26">
+      </points>
+      <points label="RING_FINGER_TIP" source="manual" outside="0" occluded="0" points="305.17,328.26">
+      </points>
+      <points label="RING_FINGER_DIP" source="manual" outside="0" occluded="0" points="313.48,337.60">
+      </points>
+      <points label="RING_FINGER_PIP" source="manual" outside="0" occluded="0" points="323.16,344.87">
+      </points>
+      <points label="RING_FINGER_MCP" source="manual" outside="0" occluded="0" points="331.77,354.96">
+      </points>
+      <points label="MIDDLE_FINGER_TIP" source="manual" outside="0" occluded="0" points="322.89,316.11">
+      </points>
+      <points label="MIDDLE_FINGER_DIP" source="manual" outside="0" occluded="0" points="312.57,318.86">
+      </points>
+      <points label="MIDDLE_FINGER_PIP" source="manual" outside="0" occluded="0" points="307.94,325.67">
+      </points>
+      <points label="MIDDLE_FINGER_MCP" source="manual" outside="0" occluded="0" points="337.16,347.06">
+      </points>
+      <points label="INDEX_FINGER_TIP" source="manual" outside="0" occluded="0" points="329.06,302.57">
+      </points>
+      <points label="INDEX_FINGER_DIP" source="manual" outside="0" occluded="0" points="326.26,302.68">
+      </points>
+      <points label="INDEX_FINGER_PIP" source="manual" outside="0" occluded="0" points="324.66,303.21">
+      </points>
+      <points label="INDEX_FINGER_MCP" source="manual" outside="0" occluded="0" points="350.03,329.75">
+      </points>
+      <points label="THUMB_TIP" source="manual" outside="0" occluded="0" points="342.00,329.01">
+      </points>
+      <points label="THUMB_IP" source="manual" outside="0" occluded="0" points="346.72,329.79">
+      </points>
+      <points label="THUMB_MCP" source="manual" outside="0" occluded="0" points="379.87,338.53">
+      </points>
+      <points label="THUMB_CMC" source="manual" outside="0" occluded="0" points="397.02,357.05">
+      </points>
+      <points label="WRIST" source="manual" outside="0" occluded="0" points="394.70,388.73">
+      </points>
+    </skeleton>
+  </image>
+</annotations>
