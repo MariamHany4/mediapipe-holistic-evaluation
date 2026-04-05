@@ -1,6 +1,21 @@
 {
+    "hand_detection_rate": 1.0,
+    "miss_rate": 0.0,
+    "swap_error_rate": 0.0,
     "MPJPE": 3.7004910714285715,
-    "total_joints": 672,
+    "total_joints_evaluated": 672,
+    "per_hand_detection": {
+        "left": {
+            "total": 18,
+            "detected": 18,
+            "accuracy": 1.0
+        },
+        "right": {
+            "total": 14,
+            "detected": 14,
+            "accuracy": 1.0
+        }
+    },
     "PCK@10": {
         "correct": 659,
         "total": 672,
